@@ -1,4 +1,4 @@
-# UNRELEASED
+# 3.11.0 (2016-06-14)
   * Allow additional Babel plugins to be configured
 
 # 3.10.0 (2016-06-07)

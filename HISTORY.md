@@ -1,3 +1,6 @@
+# UNRELEASED
+  * Fix coding style violations
+
 # 3.11.0 (2016-06-14)
   * Allow additional Babel plugins to be configured
 

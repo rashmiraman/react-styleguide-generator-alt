@@ -1,4 +1,4 @@
-# UNRELEASED
+# 2.8.1 (2016-06-21)
   * Fixing all npm modules to specific versions
 
 # 2.8.0 (2016-06-02)

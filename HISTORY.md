@@ -1,5 +1,6 @@
 # UNRELEASED
   * Fix coding style violations
+  * Fixing all npm modules to specific versions
 
 # 3.11.0 (2016-06-14)
   * Allow additional Babel plugins to be configured

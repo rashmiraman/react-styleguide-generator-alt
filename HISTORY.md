@@ -1,3 +1,6 @@
+# UNRELEASED
+  * Fixing all npm modules to specific versions
+
 # 2.8.0 (2016-06-02)
   * Fixing navigation when using pushstate
 

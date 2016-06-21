@@ -1,4 +1,4 @@
-# UNRELEASED
+# 3.11.1 (2016-06-21)
   * Fix coding style violations
   * Fixing all npm modules to specific versions
 

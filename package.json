@@ -1,6 +1,6 @@
 {
   "name": "rsg-alt",
-  "version": "3.11.0",
+  "version": "3.11.1",
   "description": "A React component guide that generates code examples, prop documentation, rendered component samples and active development.",
   "main": "lib/rsg.js",
   "bin": {
@@ -91,7 +91,7 @@
     "mustache": "2.2.1",
     "object-assign": "4.1.0",
     "page": "1.7.1",
-	"promise": "7.1.1",
+    "promise": "7.1.1",
     "react-bootstrap": "0.27.1",
     "react-docgen": "2.9.0",
     "react-simpletabs": "matthewgertner/react-simpletabs",

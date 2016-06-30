@@ -1,3 +1,6 @@
+# UNRELEASED
+  * Fix to render also pure function components
+  
 # 3.11.1 (2016-06-22)
   * Fix coding style violations
   * Fixing all npm modules to specific versions

@@ -1,6 +1,10 @@
+# Contributing
+
+Anyone who makes a PR that's accepted into master gets merge and `npm publish` rights.
+
 ## Prepping your PR
 
-Before you create a pull request, do NOT update `package.json` and make sure to update `HISTORY.md` using the following process:
+Before you create a pull request, do NOT update the `package.json` version and make sure to update `HISTORY.md` using the following process:
 
 - Install https://github.com/defunctzombie/changelog via `npm install -g defunctzombie/changelog`.
 - `changelog --increment` and add in your changes to the new line in `HISTORY.md`. Leave the `# UNRELEASED` line untouched.

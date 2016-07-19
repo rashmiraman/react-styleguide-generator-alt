@@ -44,7 +44,7 @@ export default class Sections extends Component {
 
           return (
             <Section {...Content.styleguide} key={i}>
-              {(!stateful || Content.prototype.render && classComponent) && <Content {...props} />}
+              {(!stateful || Content.prototype.render && stateful) && <Content {...props} />}
             </Section>
           )
         })}

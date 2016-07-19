@@ -1,9 +1,13 @@
+# UNRELEASED
+  * Fix broken demo issue with optional render for tabbed examples
+  * Provide examples of stateless components and createClass static usage
+
 # 3.12.1 (2016-07-02)
   * Fixed wrong path to 'publicPath' variable from webpackConfig
 
 # 3.11.2 (2016-07-01)
   * Fix to render also pure function components
-  
+
 # 3.11.1 (2016-06-22)
   * Fix coding style violations
   * Fixing all npm modules to specific versions
